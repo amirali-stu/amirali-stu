@@ -39,6 +39,9 @@ let Me = {
 <h2>📞 Concat Me:</h2>
 <p>
   <a href="">
-    <img src="https://github.com/amirali-stu/amirali-stu/blob/main/icons8-telegram-96.png?raw=true" alt="telegram" />
+    <img height="50px" width="50px" src="https://github.com/amirali-stu/amirali-stu/blob/main/icons8-telegram-96.png?raw=true" alt="telegram" />
+  </a>
+  <a href="">
+    <img height="50px" width="50px" src="https://github.com/amirali-stu/amirali-stu/blob/main/icons8-instagram-96.png?raw=true" alt="Instagram" />
   </a>
 </p>
