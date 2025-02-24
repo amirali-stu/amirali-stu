@@ -1,7 +1,9 @@
 ## Hi guys I,m Amir Ali Mosolo 👋
 <br />
 
-<img align="center" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="hobby" />
+<div align="center">
+  <img align="center" width="500px" height="400px" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="hobby" />
+</div>
 
 ------
 
