@@ -1,7 +1,7 @@
 ## Hi guys I,m Amir Ali Mosolo 👋
 <br />
 
-<img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" alt="hobby" />
+<img align="center" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="hobby" />
 
 ------
 
