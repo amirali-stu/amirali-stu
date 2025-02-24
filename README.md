@@ -41,6 +41,19 @@ let Me = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirali-stu" />
 </a>
 
+
+----------
+
+<h2>📈 I am learning:</h2>
+
+<div>
+  <img width="100px" height="100px" align="center" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" />
+  &nbsp;
+  <img width="100px" height="100px" align="center" src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" />
+   <br />
+</div>
+
+
 ------
 
 <h2>📞 Concat Me:</h2>
