@@ -43,8 +43,7 @@ let Me = {
 <div>
 <!--   <img width="100px" height="100px" align="center" src="[https://camo.githubusercontent.com/c3635f27439ecdb…f49636f6e5f6461726b5f6261636b67726f756e642e706e67](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fnextjs&psig=AOvVaw3Ei6PzQUBBigLmkZPHqpfv&ust=1755809265820000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDS4a-hmo8DFQAAAAAdAAAAABAE)" /> -->
 
-[![Next](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_nextjs.png?raw=true)](https://zeit.co/)
-
+![Next.js](https://readmebadge.vercel.app/badges/nextjs.svg)
 
   
 </div>
