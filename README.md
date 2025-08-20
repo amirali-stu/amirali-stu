@@ -18,7 +18,7 @@ let Me = {
   last_name:"Mosolo",
   country:"IRAN",
   city:"Qom",
-  skille:"Js, HTML, CSS, Tailwind, ..."
+  skille:"Js, HTML, CSS, Tailwind, React, Git"
 };
 ```
 <br />
